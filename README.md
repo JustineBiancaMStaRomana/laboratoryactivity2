@@ -1,3 +1,3 @@
-This is Laboratory Activity on Modules (Placeholder)
-The topics covered in this are (Placeholder)
-https://justinebiancamstaromana.github.io/laboratoryactivity2/
+-This is Laboratory Activity on Modules 2 /
+-The topics covered in this are basic html functions /
+-https://justinebiancamstaromana.github.io/laboratoryactivity2/
